@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Smoke Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="20.985">
+  <properties />
+  
+  
+            <testcase name="loginTest" time="20.985" classname="com.qa.testscripts.login.TC_LoginTest_01" />
+      
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Onecomm solution test">
+	<listeners>
+		<listener class-name="com.qa.listeners.CustomListener"/>
+		<listener class-name="org.uncommons.reportng.HTMLReporter"/>
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+	</listeners>
+	
+	<test name="Smoke Test">
+		<classes>
+			<class name="com.qa.testscripts.login.TC_LoginTest_01" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

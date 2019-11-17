@@ -1,0 +1,20 @@
+17/11/2019 16:36:10 DEBUG Preferences:118 - Preference chrome=78 (valid until 2019-11-18 16:27:52)
+17/11/2019 16:36:10 DEBUG Preferences:118 - Preference chrome78=78.0.3904.70 (valid until 2019-11-18 16:27:52)
+17/11/2019 16:36:10  INFO WebDriverManager:600 - Using chromedriver 78.0.3904.70 (since Google Chrome 78 is installed in your machine)
+17/11/2019 16:36:10 DEBUG WebDriverManager:545 - Driver chromedriver 78.0.3904.70 found in cache
+17/11/2019 16:36:10  INFO WebDriverManager:1078 - Exporting webdriver.chrome.driver as C:\Users\Rithick\.m2\repository\webdriver\chromedriver\win32\78.0.3904.70\chromedriver.exe
+17/11/2019 16:36:13  INFO devpinoyLogger:83 - Chrome browser launched!
+17/11/2019 16:36:18  INFO devpinoyLogger:120 - Test site URL https://www.gmail.com is loaded.
+17/11/2019 16:36:20  INFO devpinoyLogger:68 - loginTest is started
+17/11/2019 16:36:20  INFO devpinoyLogger:39 - Entered 'sammca87@gmail.com' on Email or Mobile number field.
+17/11/2019 16:36:20  INFO devpinoyLogger:77 - Clicked on Next button.
+17/11/2019 16:36:22  INFO devpinoyLogger:62 - Entered 'yuvi@666' on password field.
+17/11/2019 16:36:23  INFO devpinoyLogger:77 - Clicked on Next button.
+17/11/2019 16:36:36  INFO devpinoyLogger:42 - Navigated to Home page, the title is 'Inbox (31,137) - sammca87@gmail.com - Gmail'
+17/11/2019 16:36:40  INFO devpinoyLogger:62 - Clicked on logout out button.
+17/11/2019 16:36:41  INFO devpinoyLogger:77 - loginTest is pass
+17/11/2019 16:36:43 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+17/11/2019 16:36:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+17/11/2019 16:36:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17/11/2019 16:36:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17/11/2019 16:36:43 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Rithick/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

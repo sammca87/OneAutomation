@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Onecomm solution test]">
+  <listeners>
+    <listener class-name="com.qa.listeners.CustomListener"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test thread-count="5" name="Smoke Test(failed)">
+    <classes>
+      <class name="com.qa.testscripts.login.TC_LoginTest_01">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="setUpBrowser"/>
+          <include name="loginTest" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qa.testscripts.login.TC_LoginTest_01 -->
+    </classes>
+  </test> <!-- Smoke Test(failed) -->
+</suite> <!-- Failed suite [Onecomm solution test] -->

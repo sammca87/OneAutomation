@@ -1,0 +1,10 @@
+17/11/2019 16:36:13 devpinoyLogger Chrome browser launched!
+17/11/2019 16:36:18 devpinoyLogger Test site URL https://www.gmail.com is loaded.
+17/11/2019 16:36:20 devpinoyLogger loginTest is started
+17/11/2019 16:36:20 devpinoyLogger Entered 'sammca87@gmail.com' on Email or Mobile number field.
+17/11/2019 16:36:20 devpinoyLogger Clicked on Next button.
+17/11/2019 16:36:22 devpinoyLogger Entered 'yuvi@666' on password field.
+17/11/2019 16:36:23 devpinoyLogger Clicked on Next button.
+17/11/2019 16:36:36 devpinoyLogger Navigated to Home page, the title is 'Inbox (31,137) - sammca87@gmail.com - Gmail'
+17/11/2019 16:36:40 devpinoyLogger Clicked on logout out button.
+17/11/2019 16:36:41 devpinoyLogger loginTest is pass
