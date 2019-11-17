@@ -30,6 +30,8 @@ public class TC_LoginTest_02 extends Base{
 		Assert.assertTrue(home.getTitle().contains("Inbox"));
 		
 		home.logOut();
+		
+		//Peryasamy added some changes
 
 	}
 
