@@ -10,6 +10,7 @@
 	<test name="Smoke Test">
 		<classes>
 			<class name="com.qa.testscripts.login.TC_LoginTest_01" />
+			<class name="com.qa.testscripts.login.TC_LoginTest_02" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
