@@ -50,6 +50,10 @@ public class Home extends Base {
 		return title;
 		
 	}
+	public void uploadProfile() {
+		
+		//yet to start
+	}
 
 	public void logOut() {
 

@@ -44,6 +44,11 @@ public class Login extends Base {
 		}
 		
 	}
+	
+	public void validateLoginErrorMessage() {
+		//Yet to start
+		
+	}
 
 	public void typePassword(String password) {
 
