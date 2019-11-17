@@ -45,6 +45,10 @@ public class Login extends Base {
 		
 	}
 	
+	public void validateTile() {
+		//Login page title validation
+	}
+	
 	public void validateLoginErrorMessage() {
 		//Yet to start
 		

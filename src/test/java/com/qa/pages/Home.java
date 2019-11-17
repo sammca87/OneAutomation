@@ -50,9 +50,10 @@ public class Home extends Base {
 		return title;
 		
 	}
-	public void uploadProfile() {
+	
+	public void validateFooter() {
+		//Home page footer validation
 		
-		//yet to start
 	}
 
 	public void logOut() {
