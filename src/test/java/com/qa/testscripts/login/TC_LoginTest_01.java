@@ -31,6 +31,7 @@ public class TC_LoginTest_01 extends Base{
 		
 		home.logOut();
 
+		System.out.println("Logged out successfully");
 	}
 
 }
